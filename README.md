@@ -1,6 +1,6 @@
 # Popsql
 
-![Uploading logo popsql.png…]()
+![logo popsql](https://github.com/user-attachments/assets/f0419258-6528-4d74-a7af-d1bd7abb6733)
 
  
 This Go script, pop_sql.go, is designed to scan a list of URLs to identify potential SQL injection vulnerabilities. The script performs these checks by manipulating URLs and observing responses to detect signs of SQL injection attacks.
